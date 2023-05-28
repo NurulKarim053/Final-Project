@@ -1,0 +1,70 @@
+
+@media(max-width:767px){
+  #work .work1{
+    width: 100%;
+    margin-bottom: -60px;
+    margin-top: -60px;
+   
+  }
+}
+@media(max-width:767px){
+    #footer .heading{
+      margin-top: 20px;
+     
+    }
+  }
+  @media(max-width:767px){
+    #footer .text{
+      margin-left: 20px;
+     
+    }
+  }
+  @media(max-width:767px){
+    #support .col-lg-6{
+     margin-top: 40px;
+     margin-left: -50px;
+     text-align: center;
+     
+    }
+  }
+  @media(max-width:767px){
+    nav .sign_up{
+   margin-left: 0px;
+     
+    }
+  }
+   @media(max-width:767px){
+    #banner .col-lg-8 {
+  
+    margin-bottom: -200px;
+     
+    }
+  } 
+  @media(max-width:767px){
+    #easy .col-lg-7 img{
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+     
+    }
+    @media(max-width:767px){
+      #scooter {
+        padding: 100px 0 50px 0;
+      }
+       
+      }
+      @media(max-width:767px){
+        #scooter .col-lg-6 p {
+          padding: 90px 0;
+        }
+         
+        }
+        @media(max-width:767px){
+          #journey .heading h2 {
+           margin-left: -50px;
+          }
+           
+          }
+      
+    
+  
